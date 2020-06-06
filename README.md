@@ -2,7 +2,7 @@
 
 ## Goal 
 
-Use ohmyzsh fastly and easy 
+Use [ohmyzsh](https://gitlab.abcxlab.com/bootcamp/ohmyzsh) fastly and easy 
 
 ## Fuction 
 
