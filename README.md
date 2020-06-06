@@ -11,3 +11,10 @@ Use ohmyzsh fastly and easy
 3. Auto install dependencies, make it easy to use Ohmyzsh
 
 ## How to use
+```
+curl -fsSL https://gitlab.abcxlab.com/bootcamp/ohmyzsh/-/raw/master/install.sh | sh -
+```
+
+## Open Issue
+Only test at ubuntu 18.0.4 / bash
+
